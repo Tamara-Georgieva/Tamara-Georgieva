@@ -22,7 +22,12 @@
 
 ###
 
-<p align="center">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="center">
+  I'm Tamara from Skopje, Macedonia — a graduate from the Faculty of Computer Science & Engineering in Skopje, with a Bachelor's degree in Applied Information Technologies.<br><br>
+  - 📚 I'm currently preparing for the CompTIA Security+ certification, coninuously diving deeper into the world of cybersecurity.<br>
+  - 🔭 I’m actively working on hands-on cybersecurity projects to turn knowledge into skill and curiosity into capability!<br>
+  - ⚡ In my free time, I enjoy listening to music while coding something exciting and challenging.
+</p>
 
 ###
 

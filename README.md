@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/Tamara-Georgieva/Tamara-Georgieva/raw/main/Tamara%20Georgieva%20-%20CV.pdf" download="Tamara_Georgieva_CV.pdf">
+  <a href="https://github.com/Tamara-Georgieva/Tamara-Georgieva/raw/main/Tamara_Georgieva_CV.pdf" download="Tamara_Georgieva_CV.pdf">
     <img src="https://img.shields.io/static/v1?message=My%20CV&logo=adobeacrobatreader&label=&color=28a745&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="download cv" />
   </a>
   <a href="https://www.linkedin.com/in/tamara-georgieva-3b79b1209/" target="_blank">

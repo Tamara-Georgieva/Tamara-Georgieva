@@ -5,6 +5,9 @@
 </div>
 
 <div align="center">
+  <a href="Tamara Georgieva  - CV.pdf" download>
+    <img src="https://img.shields.io/static/v1?message=My%20CV&logo=adobeacrobatreader&label=&color=28a745&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="download cv" />
+  </a>
   <a href="https://www.linkedin.com/in/tamara-georgieva-3b79b1209/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>

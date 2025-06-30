@@ -1,7 +1,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://i.imgur.com/ZfCTp1t.gif" />
+  <img height="150" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" />
 </div>
 
 ###

@@ -2,7 +2,8 @@
   <picture>
     <img height="150" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" alt="Coding Girl" />
   </picture>
-</div>>
+</div>
+
 ###
 
 <div align="center">

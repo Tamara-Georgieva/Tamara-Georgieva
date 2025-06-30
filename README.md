@@ -1,9 +1,8 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://media.tenor.com/cWrw4c2Pf1CAAAAd/coding-girl.gif" />
+  <img height="150" src="./coding-girl.gif" />
 </div>
-
 
 ###
 

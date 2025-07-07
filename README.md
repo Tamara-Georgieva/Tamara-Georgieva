@@ -30,7 +30,7 @@
     🎵 Coding with music in the background helps me focus and enjoy new challenges. Always looking for recommendations! 🎧  
 </p>
 
-<h3 align="center">My Tech Stack</h3>
+<h3 align="center">⬇️ Powered by these technologies ⬇️ </h3>
 
 <!-- LANGUAGES -->
 <h4 align="center">Languages</h4>

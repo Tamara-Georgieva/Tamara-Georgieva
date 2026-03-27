@@ -24,9 +24,9 @@
 <h3 align="center">👩‍💻  About Me</h3>
 
 <p align="center">
-  I'm Tamara from Skopje, Macedonia, a graduate from the Faculty of Computer Science & Engineering in Skopje, with a Bachelor's degree in Application of Information Technologies.<br><br>
-    📚 Currently, I'm preparing for the CompTIA Security+ certification <br>
-    💻 Constantly working on hands-on cybersecurity projects, always tying to turn knowledge into practical skills. <br>
+    I'm  a graduate from the Faculty of Computer Science & Engineering in Skopje, with a Bachelor's degree in Application of Information Technologies.<br><br>
+    📚 Currently preparing for the CompTIA Security+ certification <br>
+    💻 Constantly working on hands-on cybersecurity projects, turning book knowledge into practical skills. <br>
 </p>
 
 <h3 align="center">⬇️ Powered by these technologies ⬇️ </h3>

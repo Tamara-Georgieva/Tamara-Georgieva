@@ -24,9 +24,8 @@
 <h3 align="center">👩‍💻  About Me</h3>
 
 <p align="center">
-    Graduate from the Faculty of Computer Science & Engineering in Skopje, with a Bachelor's degree in Application of Information Technologies<br>
-    📚 Currently preparing for the CompTIA Security+ certification <br>
-    💻 Constantly working on hands-on cybersecurity projects, turning book knowledge into practical skills <br>
+    Graduate from the Faculty of Computer Science & Engineering in Skopje, with a Bachelor's degree in Software Engineering and Information Technologies<br>
+    📚 Always on the lookout to learn something new, so I'm currently preparing for the CompTIA Security+ certification <br>
 </p>
 
 <h3 align="center">⬇️ Powered by these technologies ⬇️ </h3>
